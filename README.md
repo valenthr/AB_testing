@@ -1,4 +1,4 @@
-# A/B test analysis
+# A/B testing
 ## Tools
 Python libraries:
 * Pandas;
