@@ -14,7 +14,7 @@ In our mobile application, after onboarding, the user is offered to buy a weekly
 1. A - control group - old design with offer for the weekly subscription for $4.99.
 2. B - test group - new design also with the same price, but we say it's actually a 50% off price.
 ## Data
-All data is in table 'ab_test_data':
+All data is in table ['ab_test_data'](https://drive.google.com/file/d/11aIe3--lnKRPnerjnJEGloHSMwP3_rTz/view?usp=drive_link):
 * user_id - unique id of each user;
 * timestamp - time of displaying an offer of subscription;
 * test_group - a or b;
